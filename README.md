@@ -1,3 +1,7 @@
 # Sandbox do JMVEX
 
-Repositório local para testar agentes. Sem remoto: nada daqui sai da máquina.
+Repositório de teste dos agentes do JMVEX Command Center.
+
+Remoto: https://github.com/JoaoDev30/jmvex-sandbox
+
+Execute os testes com `npm test`.
